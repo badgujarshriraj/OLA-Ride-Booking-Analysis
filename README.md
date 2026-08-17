@@ -97,7 +97,7 @@ Segregates cancellations into Customer-driven and Driver-driven categories, high
 ### 5. Ratings & Quality Analysis
 A side-by-side comparison of average Driver Ratings and Customer Ratings across all vehicle types to monitor service quality.
 
-![Rating Analysis](Screenshot%20(32).png)
+![Rating Analysis](Rating_Analysis.png)
 
 ---
 
@@ -123,5 +123,4 @@ Based on the visual data analysis, the following critical insights were uncovere
 ## How to Use This Repository
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/badgujarshriraj/OLA-Ride-Booking-Analysis.git
    git clone https://github.com/badgujarshriraj/OLA-Ride-Booking-Analysis.git
